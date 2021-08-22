@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
-import pages from '../data/data';
+import sheets from '../data/data';
 import Sheet from './sheet';
 
 const Book = () => {
-    const sheets = pages.map((value) => {
+    const sheetComponents = sheets.map((value) => {
         return (<Sheet front={value.front} back={value.back} />);
     });
     return (
-        <>{sheets}</>
+        <>{sheetComponents}</>
     );
 };
 
