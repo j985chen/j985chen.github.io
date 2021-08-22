@@ -1,4 +1,4 @@
-export const sheets = [
+const sheets = [
     {
         front: {
             title: 'Skills',
@@ -20,3 +20,5 @@ export const sheets = [
         },
     },   
 ];
+
+export default sheets;
