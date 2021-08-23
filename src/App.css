@@ -37,6 +37,7 @@ button:active {
     border-radius: 25px;
     background: #40140a;
     border: 20px solid #170501;
+    max-width: 850px;
 }
 
 .spine {
