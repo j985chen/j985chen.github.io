@@ -32,7 +32,6 @@ const Book = () => {
                 <div className='book'>
                     {pageComponents}
                 </div>
-                <div className='spine'></div>
                 <div className='bookmark'></div>
             </div>
             <button id='nextButton' onClick={flipRight} style={{visibility: currPage === pages.length - 1 ? 'hidden' : 'visible' }}>
