@@ -1,24 +1,24 @@
-const sheets = [
+const pages = [
     {
-        front: {
-            title: 'Skills',
-            body: '',
-        },
-        back: {
-            title: 'Work experience',
-            body: '',
-        },
+        title: 'Hello!',
+        body: '',
     },
     {
-        front: {
-            title: 'Projects',
-            body: '',
-        },
-        back: {
-            title: 'Contact me',
-            body: '',
-        },
-    },   
+        title: 'Skills',
+        body: '',
+    },
+    {
+        title: 'Work experience',
+        body: '',
+    },
+    {
+        title: 'Projects',
+        body: '',
+    },
+    {
+        title: 'Contact me',
+        body: '',
+    },  
 ];
 
-export default sheets;
+export default pages;
