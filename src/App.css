@@ -52,8 +52,8 @@ button:active {
 .bookmark {
     width:0; 
     height:100px; 
-    border-right:30px solid #323ea8;
-    border-left:30px solid #323ea8;
+    border-right:30px solid #190f70;
+    border-left:30px solid #190f70;
     border-bottom:30px solid transparent;
     margin-top: -5vh;
     margin-left: 45vw;

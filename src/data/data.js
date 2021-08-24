@@ -8,7 +8,7 @@ const pages = [
             <>
                 {<img src={pic} alt='Picture of me' />}
                 <p>
-                    I'm Janet Chen, a second-year software engineering student at the University of Waterloo. Currently, I'm interested in <em>full-stack web development</em> and <em>AI/ML</em>.
+                    I'm Janet Chen, a second-year software engineering student at the University of Waterloo. Currently, I'm interested in full-stack web development and AI/ML.
                 </p>
                 <p>
                     Here's where you can find me:
