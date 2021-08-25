@@ -35,7 +35,7 @@ button:active {
     height: 80vh;
     width: 80vw;
     border-radius: 25px;
-    background: #40140a;
+    background: linear-gradient(45deg, rgba(64,20,10,1) 0%, rgba(23,5,1,1) 75%);
     border: 20px solid #170501;
     max-width: 850px;
 }
@@ -53,7 +53,7 @@ button:active {
     width:0; 
     height:100px; 
     border-right:30px solid #190f70;
-    border-left:30px solid #190f70;
+    border-left:30px solid #2719a6;
     border-bottom:30px solid transparent;
     margin-top: -5vh;
     margin-left: 45vw;
@@ -129,4 +129,8 @@ svg[data-prefix='fas'], svg[data-prefix='fab'] {
 
 p {
     text-align: center;
+}
+
+a svg:hover {
+    transform: scale(2, 2);
 }

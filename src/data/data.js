@@ -13,7 +13,20 @@ const pages = [
                 <p>
                     Here's where you can find me:
                 </p>
-                <p><a href='https://github.com/j985chen'><FontAwesomeIcon icon={['fab', 'github']} /></a> <a href='https://linkedin.com/in/janetchenlink'><FontAwesomeIcon icon={['fab', 'linkedin']} /></a> <a href='mailto:janet.chen@uwaterloo.ca'><FontAwesomeIcon icon='envelope' /></a></p>
+                <p>
+                    <a href='https://github.com/j985chen' title='GitHub'>
+                        <FontAwesomeIcon icon={['fab', 'github']} />
+                    </a> 
+                    <a href='https://linkedin.com/in/janetchenlink' title='LinkedIn'>
+                        <FontAwesomeIcon icon={['fab', 'linkedin']} />
+                    </a> 
+                    <a href='mailto:janet.chen@uwaterloo.ca' title='Email'>
+                        <FontAwesomeIcon icon='envelope' />
+                    </a>
+                    <a href='/' title='Resume'>
+                        <FontAwesomeIcon icon='file-alt' />
+                    </a>
+                </p>
             </>
         ),
     },
