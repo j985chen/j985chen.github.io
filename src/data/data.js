@@ -39,7 +39,7 @@ const pages = [
         title: 'Bookmobile (WIP)',
         body: (
             <>
-                <img src={bookmobiledemo} alt='Screenshot of bookmobile login page' style={{minWidth: '100% '}} />
+                <img src={bookmobiledemo} alt='Screenshot of bookmobile login page' style={{width: '75%'}} />
                 <p>A mobile app which tracks how many books you read per year, inspired by the 50-book pledge</p>
                 <p><em>Technologies used: Spring Boot, React Native, MySQL</em></p>
             </>
