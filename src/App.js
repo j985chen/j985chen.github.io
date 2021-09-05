@@ -8,7 +8,17 @@ library.add(faAngleLeft, faAngleRight, faEnvelope, faFileAlt, fab);
 
 function App() {
   return (
-    <Book />
+    <>
+        <Book />
+        <div className='displayNotAvailable'>
+            <p>
+                Sorry, this website doesn't support your screen's dimensions.
+            </p> 
+            <p>
+                Please try again with another device, and in the meantime, check out my <a href='http://github.com/j985chen'>GitHub</a> and <a href='http://linkedin.com/in/j985chen'>LinkedIn</a>.
+            </p>
+        </div>
+    </>
   );
 }
 

@@ -25,19 +25,18 @@ const Book = () => {
 
     return (
         <>
-            { /*<button id='prevButton' onClick={flipLeft} style={{ visibility: currPage === 0 ? 'hidden' : 'visible' }}>
+            <button className='displayAvailable' id='prevButton' onClick={flipLeft} style={{ visibility: currPage === 0 ? 'hidden' : 'visible' }}>
                 <FontAwesomeIcon icon='angle-left' />
             </button>
-            <div className='bookBinding'>
+            <div className='bookBinding displayAvailable'>
                 <div className='book'>
                     {pageComponents}
                 </div>
                 <div className='bookmark'></div>
             </div>
-            <button id='nextButton' onClick={flipRight} style={{visibility: currPage === pages.length - 1 ? 'hidden' : 'visible' }}>
+            <button className='displayAvailable' id='nextButton' onClick={flipRight} style={{visibility: currPage === pages.length - 1 ? 'hidden' : 'visible' }}>
                 <FontAwesomeIcon icon='angle-right' />
-            </button> */}
-            Currently under construction!
+            </button>
         </>
     );
 };
