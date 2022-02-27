@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f34affc.chunk.css",
+    "main.js": "/static/js/main.d6bfe0d5.chunk.js",
+    "main.js.map": "/static/js/main.d6bfe0d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1fb36143.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1fb36143.js.map",
+    "static/js/2.8c2ec9b5.chunk.js": "/static/js/2.8c2ec9b5.chunk.js",
+    "static/js/2.8c2ec9b5.chunk.js.map": "/static/js/2.8c2ec9b5.chunk.js.map",
+    "static/js/3.b93bdf53.chunk.js": "/static/js/3.b93bdf53.chunk.js",
+    "static/js/3.b93bdf53.chunk.js.map": "/static/js/3.b93bdf53.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0f34affc.chunk.css.map": "/static/css/main.0f34affc.chunk.css.map",
+    "static/js/2.8c2ec9b5.chunk.js.LICENSE.txt": "/static/js/2.8c2ec9b5.chunk.js.LICENSE.txt",
+    "static/media/bookmobiledemo.6dac082b.png": "/static/media/bookmobiledemo.6dac082b.png",
+    "static/media/feliciabotdemo.38e2e40b.gif": "/static/media/feliciabotdemo.38e2e40b.gif",
+    "static/media/markdemo.0ec11468.gif": "/static/media/markdemo.0ec11468.gif",
+    "static/media/pic.43425e0c.jpg": "/static/media/pic.43425e0c.jpg",
+    "static/media/stronglanguagedemo.56864b1b.gif": "/static/media/stronglanguagedemo.56864b1b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fb36143.js",
+    "static/js/2.8c2ec9b5.chunk.js",
+    "static/css/main.0f34affc.chunk.css",
+    "static/js/main.d6bfe0d5.chunk.js"
+  ]
+}
