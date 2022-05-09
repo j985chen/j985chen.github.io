@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3523ef43.chunk.css",
-    "main.js": "/static/js/main.c9a64b4d.chunk.js",
-    "main.js.map": "/static/js/main.c9a64b4d.chunk.js.map",
+    "main.css": "/static/css/main.75f265c8.chunk.css",
+    "main.js": "/static/js/main.8873558a.chunk.js",
+    "main.js.map": "/static/js/main.8873558a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1fb36143.js",
     "runtime-main.js.map": "/static/js/runtime-main.1fb36143.js.map",
     "static/js/2.20a40d54.chunk.js": "/static/js/2.20a40d54.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b93bdf53.chunk.js": "/static/js/3.b93bdf53.chunk.js",
     "static/js/3.b93bdf53.chunk.js.map": "/static/js/3.b93bdf53.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3523ef43.chunk.css.map": "/static/css/main.3523ef43.chunk.css.map",
+    "static/css/main.75f265c8.chunk.css.map": "/static/css/main.75f265c8.chunk.css.map",
     "static/js/2.20a40d54.chunk.js.LICENSE.txt": "/static/js/2.20a40d54.chunk.js.LICENSE.txt",
     "static/media/bookmobiledemo.6dac082b.png": "/static/media/bookmobiledemo.6dac082b.png",
     "static/media/feliciabotdemo.38e2e40b.gif": "/static/media/feliciabotdemo.38e2e40b.gif",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.1fb36143.js",
     "static/js/2.20a40d54.chunk.js",
-    "static/css/main.3523ef43.chunk.css",
-    "static/js/main.c9a64b4d.chunk.js"
+    "static/css/main.75f265c8.chunk.css",
+    "static/js/main.8873558a.chunk.js"
   ]
 }
